@@ -396,7 +396,7 @@ This repository is a part of CSI-244 at Renton Technical College.
 #### Step 5: Testing the Application
 
 - **Run Your Server:**
-   - Before you can run your server make sure that you are in the same director as server.cs
+   - Before you can run your server make sure that you are in the same directory as server.js
             ```powershell
                 cd ..
             ```
